@@ -6,6 +6,8 @@ What The Hack es una iniciativa de Código Facilito auspiciada por Microsoft, do
 
 Contarás con coaches y facilitadores que, en caso de que encuentres dificultades con alguna pregunta, podrán ayudarte a resolverla. No estás solo para enfrentar estos desafíos, tienes a tu equipo y a todos nosotros para ayudarte a superar los retos que presentamos. 
 
+Prueba 03.01 CI
+
 **¡Gracias y bienvenido a WhatTheHack!**
 
 ## Introducción del reto
